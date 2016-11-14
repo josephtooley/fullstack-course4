@@ -3,7 +3,13 @@
 }
 
 #myNavbar {
+  padding: 0;
   text-align: center;
+}
+
+#nav-list {
+  background-color: #DFF5FE; 
+  margin: 0;
 }
 
 .container {
@@ -11,7 +17,7 @@
 }
 
 .description {
-  background-color: pink;
+  background-color: #FEF1DF;
   padding: 15px;
 }
 

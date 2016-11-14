@@ -1,0 +1,16 @@
+#myNavbar {
+  text-align: center;
+}
+
+.container {
+  width: auto;
+}
+
+.description {
+  background-color: pink;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
